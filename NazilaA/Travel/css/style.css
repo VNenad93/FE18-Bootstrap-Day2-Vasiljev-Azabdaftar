@@ -1,11 +1,20 @@
 Html{
     font-size: 18px;
-    color: black;
+    
+    
 }
 body{
     font-family: 'Aboreto', cursive;
+    background-image: url("../image/backg.jpg");
+    background-repeat: no-repeat;
+    color: aliceblue;
+
 }
 .bodyContainer{
 margin: .2rem auto;
+}
+
+.card{
+    color: black;
 }
 
