@@ -1,0 +1,10 @@
+Html{
+    font-size: 18px;
+    color: black;
+}
+body{
+    font-family: 'Aboreto', cursive;
+}
+.bodyContainer{
+margin: .2rem auto;
+}
